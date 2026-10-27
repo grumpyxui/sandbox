@@ -1,0 +1,6 @@
+INFO  server started
+ERROR db connection failed
+INFO  user login
+ERROR timeout on /api/users
+WARN disk almost full
+TOUCH coin
